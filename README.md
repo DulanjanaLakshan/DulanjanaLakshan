@@ -12,7 +12,6 @@
 - 🌱 Computer Science...
 - 💬 Ask me whatsapp - +94 76 218 9497
 - contact me - +94 76 218 9497
-- 😄 Pronouns: Era
 - school : A/Walisinghe Harischandra M.V / Thambuththegama Central College
 - address :Eriyagama,Malwanegama,Thalawa
 - hobbies :Play Game
