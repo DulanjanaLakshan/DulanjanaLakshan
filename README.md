@@ -16,7 +16,7 @@
 - address :Eriyagama,Malwanegama,Thalawa
 - hobbies :Play Game
  
-![SquarePhoto_2021114151954369](https://scontent.fcmb4-2.fna.fbcdn.net/v/t39.30808-6/245950372_701219034603753_2305854946770779019_n.jpg?_nc_cat=100&ccb=1-5&_nc_sid=8bfeb9&_nc_ohc=X8yWhvOVETMAX_-mURS&_nc_ht=scontent.fcmb4-2.fna&oh=00_AT9CIpFWuW9wF5fCZr8MLEQXtwwi4hRZpVBh5niDC2e6CQ&oe=61CCA898)
+![SquarePhoto_2021114151954369](https://scontent.fcmb4-2.fna.fbcdn.net/v/t1.6435-9/188534877_125303666368235_8065618773645475872_n.jpg?_nc_cat=110&ccb=1-5&_nc_sid=174925&_nc_eui2=AeFiX2rac3pBdnbcfmaVp7RKkSAy6YycDpKRIDLpjJwOkoJ17RW_3D1rZj3EGTC6vGadlPDCIYUpRTo1IXDF88dS&_nc_ohc=rnZtWzT3ioEAX-ahsqt&_nc_ht=scontent.fcmb4-2.fna&oh=00_AT9QrdZkPc9ObirtIC6eiTfGtGEFWXAbpMGAPzs5R6wMyw&oe=61FC2D26)
 
 ## 📊 Github stats
 
